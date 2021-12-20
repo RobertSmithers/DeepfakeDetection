@@ -24,7 +24,7 @@ Data was augmented using various random horizontal/vertical flips, rotations, sc
  A pretrained ResNet32 model handled all classification. To cater our data to fit our model, we crop the image to a set 150x150 size. Additionally, for increased results, we used a prebuilt face-detection library to remove extraneous details from our data and simplifying our task, allowing our model to be more effective.
 
 ### Results
-Our model performed with 95% accuracy after 15 epochs.
+Our model performed with 94% accuracy after 15 epochs.
 
 ![Results Image](images/BestModel_Results.png "Results")
 
