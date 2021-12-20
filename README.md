@@ -55,6 +55,7 @@ Since we used the Kaggle dataset, our code had to be completed in full from a si
 **Sam**
 - Modified number of frames per video based on label type (balancing data)
 - Augmenting the data via transformations
+- Efforts to tweak hyperparameters/fine tune results
 
 **Kalel**
 - Finding and using a library to detect individual faces
