@@ -48,6 +48,9 @@ Since we used the Kaggle dataset, our code had to be completed in full from a si
 - DataLoading
 - Creating train + test functions
 - Saving/Loading the model
+- Setting up the GitHub repo
+- Setting up the overleaf CVPR project + template
+- Creating this README
 
 **Sam**
 - Modified number of frames per video based on label type (balancing data)
