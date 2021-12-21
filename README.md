@@ -50,12 +50,13 @@ Since we used the Kaggle dataset, our code had to be completed in full from a si
 - Saving/Loading the model
 - Setting up the GitHub repo
 - Setting up the overleaf CVPR project + template
-- Creating this README
+- Created this README
 
 **Sam**
 - Modified number of frames per video based on label type (balancing data)
-- Augmenting the data via transformations
+- Implemented deepface library into train function
 - Efforts to tweak hyperparameters/fine tune results
 
 **Kalel**
-- Finding and using a library to detect individual faces
+- Found the initial data
+- Added the deepface library to detect individual faces
